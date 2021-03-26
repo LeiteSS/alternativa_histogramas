@@ -1,0 +1,2 @@
+﻿  Histogram.cpp
+c:\users\lei\documents\visual studio 2015\projects\histdraw\histogram\histogram.cpp(37): error C2440: 'initializing': cannot convert from 'cv::Scalar *' to 'cv::Scalar &'
