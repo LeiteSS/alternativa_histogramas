@@ -1,6 +1,6 @@
 # Desenhar Histogramas
 
-Este algoritmo foi escrito em 2019 usando um tutorial de duas partes no [**Youtube**](https://www.youtube.com/watch?v=5NG10J4-miw), apesar de não eu não ter aproveitado esse codigo melhor, principalmente para salvar os valores do histograma em um arquivo de texto (o que era o objetivo), pois a forma como o histograma é obtido neste algoritmo é muito diferente da forma que foi usada para obter o histograma nos outros codigos. Ao meu ver neste algoritmo estamos obtendo o histograma na "unha", enquanto que nos outros codigos usamos métodos, classes, etc. Oferecida pela propria biblioteca.
+Este algoritmo foi escrito em 2019 usando um tutorial de duas partes no [**Youtube**](https://www.youtube.com/watch?v=5NG10J4-miw), apesar de não eu não ter aproveitado esse codigo melhor, principalmente para salvar os valores do histograma em um arquivo de texto (o que era o objetivo). A forma como o histograma é obtido neste algoritmo é muito diferente da forma que foi usada para obter o histograma nos outros codigos. Ao meu ver neste algoritmo estamos obtendo o histograma na "unha", enquanto que nos outros codigos usamos métodos, classes, etc. Oferecida pela propria biblioteca.
 
 ## Como Usar
 
